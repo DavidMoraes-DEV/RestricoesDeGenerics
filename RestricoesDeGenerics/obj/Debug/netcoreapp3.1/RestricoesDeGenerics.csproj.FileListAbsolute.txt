@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\bin\Debug\netcoreapp3.1\RestricoesDeGenerics.exe
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\bin\Debug\netcoreapp3.1\RestricoesDeGenerics.deps.json
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\bin\Debug\netcoreapp3.1\RestricoesDeGenerics.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\bin\Debug\netcoreapp3.1\RestricoesDeGenerics.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\bin\Debug\netcoreapp3.1\RestricoesDeGenerics.dll
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\bin\Debug\netcoreapp3.1\RestricoesDeGenerics.pdb
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\obj\Debug\netcoreapp3.1\RestricoesDeGenerics.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\obj\Debug\netcoreapp3.1\RestricoesDeGenerics.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\obj\Debug\netcoreapp3.1\RestricoesDeGenerics.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\obj\Debug\netcoreapp3.1\RestricoesDeGenerics.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\obj\Debug\netcoreapp3.1\RestricoesDeGenerics.dll
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\obj\Debug\netcoreapp3.1\RestricoesDeGenerics.pdb
+C:\ProgramasCSharp\ConceitoDeGenerics\RestricoesDeGenerics\RestricoesDeGenerics\obj\Debug\netcoreapp3.1\RestricoesDeGenerics.genruntimeconfig.cache
